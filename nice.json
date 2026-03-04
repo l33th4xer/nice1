@@ -144,6 +144,12 @@
     "sha256": "6DBBE1B10FEAA48833315E2C6863A58E6D26710FB711A7E6352B9058E2BA7729"
   },
   {
+    "guid": "com.snosz.terrainrandomiser",
+    "name": "TerrainRandomiser",
+    "version": "0.1.1",
+    "sha256": "E3A4B68B9E238A57BF103C31E3F99774FE8C1E7A56ADD632F5F1EA4AA3252770"
+  },
+  {
     "guid": "tony4twentys.quickrestart",
     "name": "Quick Restart",
     "version": "1.0.0",
