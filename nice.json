@@ -160,5 +160,29 @@
     "name": "PEAK Luggage Items",
     "version": "2.0.0",
     "sha256": "63D57AE844C92737CED420EB81157B4819FF4649F12DD50C5EC9E1A5AA94A931"
-  }
+  },
+  {
+    "guid": "com.snosz.terrainrandomiser",
+    "name": "TerrainRandomiser",
+    "version": "1.1.4",
+    "sha256": "286B50A10CC511A60BB257FE22A0C47412746591DC46FDEDE5183629FBE1D543"
+  },
+  {
+    "guid": "TropicalFrog3.SpeedMod",
+    "name": "Peak Speed Mod",
+    "version": "1.0.0.0",
+    "sha256": "92E082A697F721A72F062C68DB4499AA73531D80AB558C244433D47611630F08"
+  },
+  {
+      "guid": "FlyMod",
+    "name": "Fly Mod",
+    "version": "1.0.7",
+    "sha256": "ED09BCC81A43C17FFDCC1C1674F89BEEA2EC498A938E6148DB74D3049CD34A96"
+  },
+  {
+      "guid": "ItemSpawner",
+    "name": "com.quackandcheese.ItemSpawner",
+    "version": "0.1.4",
+    "sha256": "82441CF69B67A8AC0C9D4C1734AA090C1469F6ECBA1760C7399EC96E36F22230"
+  },
 ]
