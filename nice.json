@@ -50,8 +50,8 @@
   {
     "guid": "com.github.Kirshoo.ModVerifier",
     "name": "ModVerifier",
-    "version": "1.0.0",
-    "sha256": "309B46A7AA3E93096BB7E903511EAA4C5580C096CD74481A68E0581B7AF649E4"
+    "version": "1.1.0",
+    "sha256": "C4BB1A95A3C0A6A014C3B2A6C237B731A7260C5AEADF3D7F5EC6C0F8491A5DA4"
   },
   {
     "guid": "com.github.PEAKModding.PEAKLib.ModConfig",
@@ -92,8 +92,8 @@
   {
     "guid": "com.smckeen.morepeak",
     "name": "MorePeak",
-    "version": "1.9.0",
-    "sha256": "B701F8F8C77667437263307C73378A1096F5847867BED3C834B4E6E376EF412D"
+    "version": "1.9.2",
+    "sha256": "F97226F5803A52F6CF9FA06227EA12F400FC9AAB743FA77C08FF20F96A7FA153"
   },
   {
     "guid": "com.snosz.photoncustompropsutils",
